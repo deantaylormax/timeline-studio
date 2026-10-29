@@ -1,0 +1,11 @@
+date,type,description,notes,location,amount
+2025-03-02 09:30,email,Offer letter received,"Start date April 7. Need to sign by Friday.",,
+03/04/2025 2:15 PM,call,Call with recruiter,"Negotiated relocation; they agreed to cover moving costs.",,
+"Mar 10, 2025",purchase,New laptop,MacBook Pro for the new role,Apple Union Square,"$2,499.00"
+2025-03-15,outing,Farewell lunch with the old team,"Tacos, speeches, one tear.","Tacolicious, SF",
+2025-04-07 08:45,In-Person Meeting,First day orientation,"Badge, laptop setup, met the team.
+Manager: Dana. Buddy: Leo.",HQ,
+2025-04-07 18:02,text,Texted Mom about day one,"""It went great!""",,
+not a date,note,This row has a bad date,Should be flagged and skipped,,
+2025-04-21,,Quarterly planning kickoff,No type given — uses the default type,,
+2025-05-02,carrier pigeon,Unusual type,Unknown type should warn and fall back,,

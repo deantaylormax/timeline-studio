@@ -1,0 +1,15 @@
+date,type,description,notes,location,amount,timeline
+1944-06-06 00:15,outing,First American pathfinders land,"Capt. Frank Lillyman of the 101st Airborne is the first American paratrooper on the ground, marking drop zones. Times in this file are Normandy local time.",Normandy,,Airborne
+1944-06-06 00:16,outing,Gliders at the Caen bridges,"Six British gliders under Maj. John Howard land beside the bridges over the Caen Canal and the River Orne. The canal bridge will be known as Pegasus Bridge.",Bénouville,,Airborne
+1944-06-06 01:50,outing,British 6th Airborne drops,"The main body of the British 6th Airborne Division parachutes east of the Orne.",East of the Orne,,Airborne
+1944-06-06 05:00,outing,Merville Battery is taken,"British airborne troops capture the Merville gun battery before it can shell the invasion beaches.",Merville,,Airborne
+1944-06-06 08:34,meeting,The fight at Brécourt Manor,"1st Lt. Richard Winters and a small band of the 101st attack a German battery firing on Utah Beach.",Brécourt Manor,,Airborne
+1944-06-06 06:30,outing,H-Hour on Utah and Omaha,"First waves touch Utah and Omaha at 06:30. At Utah, the current sets the 4th Division down more than a mile from its aim. At Omaha, the 1st and 29th Divisions land into heavy fire.",Utah Beach and Omaha Beach,,Beaches
+1944-06-06 07:10,outing,Rangers at Pointe du Hoc,"U.S. Army Rangers start the climb to the guns said to command both American beaches.",Pointe du Hoc,,Beaches
+1944-06-06 07:25,outing,Gold and Sword,"British troops begin landing at Gold and Sword beaches.",Gold Beach and Sword Beach,,Beaches
+1944-06-06 07:35,outing,Canada comes ashore at Juno,"Canadian troops begin landing at Juno Beach.",Juno Beach,,Beaches
+1944-06-06 08:30,note,Omaha is still in doubt,"Navy beachmasters suspend vehicle landings on Omaha. Lt. Gen. Omar Bradley weighs whether the follow-on waves can keep coming in.",Omaha Beach,,Beaches
+1944-06-06 03:00,note,The bombardment ships take station,"Allied warships are on their marks off the coast, waiting for dawn.",Off Normandy,,Fleet
+1944-06-06 05:30,outing,Naval bombardment begins,"The fleet opens fire on the coastal batteries and beach defenses.",Off Normandy,,Fleet
+1944-06-06 06:00,outing,Bombers under the cloud,"About 270 B-26 Marauders drop 4,404 bombs along the Norman coast, flying beneath the overcast.",Normandy coast,,Fleet
+1944-06-06 06:33,note,USS Corry is lost,"The destroyer USS Corry explodes off Utah Beach. The crew abandons ship within minutes.",Off Utah Beach,,Fleet

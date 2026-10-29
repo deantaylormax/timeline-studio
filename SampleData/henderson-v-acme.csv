@@ -1,0 +1,7 @@
+date,timeline,type,description,notes,location
+2026-02-04 08:12,Emails,Email,Demand letter from counsel,"Acme's counsel demands payment for the delayed lobby work and threatens suit.",Acme Industries
+2026-02-06 10:00,Meetings,Meeting,Site walkthrough,"Counsel and the superintendent walk the unfinished lobby. Photos taken of the water damage.",Henderson Building
+2026-02-11 14:15,Calls,Phone Call,Call with the superintendent,"He says the delay started when Acme's steel delivery missed the February 2 window.",Phone
+2026-02-14 09:40,Emails,Email,Complaint served,"Henderson files in superior court. The complaint cites the February 4 demand and the site walkthrough.",
+2026-02-18 11:05,Calls,Phone Call,Adjuster declines the delay claim,"The carrier says the contract's no-damage-for-delay clause controls.",Phone
+2026-02-20 15:30,Meetings,Meeting,Mediation,"The parties mediate. No agreement. The February 11 call remains in dispute.","Courthouse, Room 3"

@@ -1,0 +1,35 @@
+date,type,description,notes,location,amount,timeline
+2026-03-14 08:12,text,"You up? Priya's flight lands at 10:40.","On Maya's phone. Sent to Jordan at 8:12 a.m. Times are local. A call is placed at its start.",,,Maya
+2026-03-14 08:12,text,"You up? Priya's flight lands at 10:40.","On Jordan's phone. Text from Maya at 8:12 a.m.",,,Jordan
+2026-03-14 08:14,text,"Up. I'll get the car.","On Maya's phone. Text from Jordan at 8:14 a.m.",,,Maya
+2026-03-14 08:14,text,"Up. I'll get the car.","On Jordan's phone. Sent to Maya at 8:14 a.m.",,,Jordan
+2026-03-14 08:21,text,"Jordan's driving. We'll be at arrivals.","On Maya's phone. Sent to Priya at 8:21 a.m.",,,Maya
+2026-03-14 08:21,text,"Jordan's driving. We'll be at arrivals.","On Priya's phone. Text from Maya at 8:21 a.m.",,,Priya
+2026-03-14 08:36,text,"Boarding now. I'm in row 14.","On Maya's phone. Text from Priya at 8:36 a.m.",,,Maya
+2026-03-14 08:36,text,"Boarding now. I'm in row 14.","On Priya's phone. Sent to Maya at 8:36 a.m.",,,Priya
+2026-03-14 09:02,call,"Call with Jordan — 5 min","On Maya's phone. Started 9:02 a.m. Ended 9:07 a.m. Duration 5 minutes. Jordan takes the airport loop.",,,Maya
+2026-03-14 09:02,call,"Call with Maya — 5 min","On Jordan's phone. Started 9:02 a.m. Ended 9:07 a.m. Duration 5 minutes. Jordan takes the airport loop.",,,Jordan
+2026-03-14 09:18,text,"Silver Honda. I'll text from the curb.","On Jordan's phone. Sent to Priya at 9:18 a.m.",,,Jordan
+2026-03-14 09:18,text,"Silver Honda. I'll text from the curb.","On Priya's phone. Text from Jordan at 9:18 a.m.",,,Priya
+2026-03-14 10:44,text,"Landed. Walking to arrivals.","On Maya's phone. Text from Priya at 10:44 a.m., also sent to Jordan.",,,Maya
+2026-03-14 10:44,text,"Landed. Walking to arrivals.","On Jordan's phone. Text from Priya at 10:44 a.m., also sent to Maya.",,,Jordan
+2026-03-14 10:44,text,"Landed. Walking to arrivals.","On Priya's phone. Sent to Maya and Jordan at 10:44 a.m.",,,Priya
+2026-03-14 10:51,call,"Call with Priya — 2 min","On Jordan's phone. Started 10:51 a.m. Ended 10:53 a.m. Duration 2 minutes. He missed the curb and is circling.",,,Jordan
+2026-03-14 10:51,call,"Call with Jordan — 2 min","On Priya's phone. Started 10:51 a.m. Ended 10:53 a.m. Duration 2 minutes. He missed the curb and is circling.",,,Priya
+2026-03-14 10:58,text,"I see her. Door 4.","On Maya's phone. Sent to Jordan at 10:58 a.m.",,,Maya
+2026-03-14 10:58,text,"I see her. Door 4.","On Jordan's phone. Text from Maya at 10:58 a.m.",,,Jordan
+2026-03-14 12:30,call,"Call with Jordan and Priya — 18 min","On Maya's phone. Started 12:30 p.m. Ended 12:48 p.m. Duration 18 minutes. All three are on the line, settling lunch.",,,Maya
+2026-03-14 12:30,call,"Call with Maya and Priya — 18 min","On Jordan's phone. Started 12:30 p.m. Ended 12:48 p.m. Duration 18 minutes. All three are on the line, settling lunch.",,,Jordan
+2026-03-14 12:30,call,"Call with Maya and Jordan — 18 min","On Priya's phone. Started 12:30 p.m. Ended 12:48 p.m. Duration 18 minutes. All three are on the line, settling lunch.",,,Priya
+2026-03-14 15:40,text,"Heading out. Call if the gate code fails.","On Maya's phone. Sent to Priya at 3:40 p.m.",,,Maya
+2026-03-14 15:40,text,"Heading out. Call if the gate code fails.","On Priya's phone. Text from Maya at 3:40 p.m.",,,Priya
+2026-03-14 16:05,call,"Call with Priya — 6 min","On Maya's phone. Started 4:05 p.m. Ended 4:11 p.m. Duration 6 minutes. The gate code was wrong.",,,Maya
+2026-03-14 16:05,call,"Call with Maya — 6 min","On Priya's phone. Started 4:05 p.m. Ended 4:11 p.m. Duration 6 minutes. The gate code was wrong.",,,Priya
+2026-03-14 16:14,text,"I'm in. The code is 4419, not 4491.","On Jordan's phone. Text from Priya at 4:14 p.m.",,,Jordan
+2026-03-14 16:14,text,"I'm in. The code is 4419, not 4491.","On Priya's phone. Sent to Jordan at 4:14 p.m.",,,Priya
+2026-03-14 18:20,call,"Call with Jordan — 27 min","On Maya's phone. Started 6:20 p.m. Ended 6:47 p.m. Duration 27 minutes. They moved Sunday to the afternoon.",,,Maya
+2026-03-14 18:20,call,"Call with Maya — 27 min","On Jordan's phone. Started 6:20 p.m. Ended 6:47 p.m. Duration 27 minutes. They moved Sunday to the afternoon.",,,Jordan
+2026-03-14 19:05,text,"Jordan says Sunday still works.","On Maya's phone. Sent to Priya at 7:05 p.m.",,,Maya
+2026-03-14 19:05,text,"Jordan says Sunday still works.","On Priya's phone. Text from Maya at 7:05 p.m.",,,Priya
+2026-03-14 21:16,text,"Home. Sorry that call ran long.","On Maya's phone. Text from Jordan at 9:16 p.m.",,,Maya
+2026-03-14 21:16,text,"Home. Sorry that call ran long.","On Jordan's phone. Sent to Maya at 9:16 p.m.",,,Jordan

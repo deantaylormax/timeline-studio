@@ -1,0 +1,21 @@
+date,timeline,type,description,notes,location
+2026-11-12 08:12,Emails,email,Draft term sheet from Dana,"First pass at pricing, a 3-year term and net-30 payment.",
+2026-11-12 08:34,Text Messages,text,Sam: “Running 10 min late”,Train stuck at Civic Center.,
+2026-11-12 09:00,Meetings,meeting,Morning stand-up,"Agreed the deal is today's top priority. Dana leads, Sam on pricing.",Zoom
+2026-11-12 09:47,Emails,email,Legal's redlines,Clause 7 (liability cap) and clause 12 (auto-renewal) flagged.,
+2026-11-12 09:52,Text Messages,text,Dana: “Clause 7 is a problem”,Northwind won't accept an uncapped liability.,
+2026-11-12 10:20,Text Messages,text,Sam: “Can you join at 10:30?”,,
+2026-11-12 10:30,Meetings,meeting,Pricing review with finance,Floor set at a 12% discount for a 3-year commitment.,Room 4B
+2026-11-12 11:05,Emails,email,Revised pricing table,"Three tiers, with the 12% floor on the 3-year option.",
+2026-11-12 12:41,Text Messages,text,Dana: “They want net-60”,Their AP runs on a 60-day cycle.,
+2026-11-12 13:18,Emails,email,Counter-proposal from Northwind,"Net-60, 10% discount, liability capped at 2× annual fees.",
+2026-11-12 13:25,Text Messages,text,Sam: “Counter looks reasonable”,,
+2026-11-12 14:10,Text Messages,text,Dana: “Coffee before the 2:30?”,,
+2026-11-12 14:30,Meetings,meeting,Negotiation session with Northwind,"Settled on net-45, an 11% discount and the 2× liability cap.","Northwind HQ, 18th floor"
+2026-11-12 15:02,Emails,email,Agreement v4,All negotiated terms in; legal approved within the hour.,
+2026-11-12 16:00,Meetings,meeting,Final terms walkthrough,Line-by-line read-through with both legal teams.,Video call
+2026-11-12 16:40,Emails,email,Signed contract,Northwind signed; countersignature requested.,
+2026-11-12 16:44,Text Messages,text,Sam: “🎉 It's signed!”,,
+2026-11-12 17:30,Meetings,meeting,Team debrief,"What worked: fast pricing approvals. Next time: involve legal earlier.",Room 4B
+2026-11-12 17:55,Emails,email,Thank-you note to the Northwind team,Kickoff proposed for the first week of December.,
+2026-11-12 18:02,Text Messages,text,Dana: “Dinner at 7 to celebrate?”,,

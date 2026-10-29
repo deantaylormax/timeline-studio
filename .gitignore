@@ -1,0 +1,12 @@
+# Local secrets. These must never be copied into the app bundle.
+.env
+.env.*
+xai-api-key
+*.xcconfig.local
+
+# Build products and Xcode user state. The disk image in dist/ is intentional.
+build/
+DerivedData/
+.DS_Store
+xcuserdata/
+*.xcuserstate

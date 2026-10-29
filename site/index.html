@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Timeline Studio — a chronology you can present</title>
+  <meta name="description" content="Timeline Studio is a free Mac app for building and presenting a chronology. Connect your own model, or have LegalAI run the AI for $79 a month.">
+  <link rel="icon" href="icon.png">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+
+  <header class="nav">
+    <a class="brand" href="#content">
+      <img src="icon.png" width="28" height="28" alt="">
+      <span>Timeline Studio</span>
+    </a>
+    <nav class="nav-links" aria-label="Page">
+      <a href="#app">The app</a>
+      <a href="#ai">The AI</a>
+      <a href="#run">$79 a month</a>
+      <a href="#questions">Questions</a>
+    </nav>
+    <a class="btn primary" href="#download">Download for Mac</a>
+  </header>
+
+  <main id="content">
+    <section class="pitch">
+      <h1>A chronology you can open and present.</h1>
+      <p>Timeline Studio is free on the Mac. Connect your own model, or have LegalAI run the AI for $79 a month.</p>
+      <div class="actions">
+        <a class="btn primary" href="#download">Download for Mac</a>
+        <a class="btn" href="#run">Have LegalAI run it</a>
+      </div>
+    </section>
+
+    <section class="stage-wrap" aria-labelledby="sample-title">
+      <div class="window">
+        <div class="toolbar">
+          <span class="lights" aria-hidden="true"><i></i><i></i><i></i></span>
+          <span class="toolbar-title">Timeline Studio</span>
+        </div>
+        <div class="canvas">
+          <div class="titleblock">
+            <h2 id="sample-title">Henderson v. Acme Industries</h2>
+            <p>Emails, calls &amp; meetings · February 2026</p>
+            <p class="meta">Sample · 6 events</p>
+          </div>
+
+          <div class="stage" id="stage">
+            <div class="scroller" tabindex="0" aria-label="Sample chronology">
+              <div class="strip" id="strip"></div>
+            </div>
+            <article class="event-card focus-card" id="focus-card" aria-live="polite"></article>
+          </div>
+
+          <div class="transport">
+            <span id="counter">1 of 6</span>
+            <div class="scrub" aria-hidden="true"><span id="scrub-fill"></span></div>
+            <time id="clock" datetime="2026-02-11T14:15">Feb 11, 2026 at 2:15 PM</time>
+            <button type="button" id="prev" aria-label="Previous event">←</button>
+            <button type="button" id="next" aria-label="Next event">→</button>
+          </div>
+        </div>
+      </div>
+      <p class="caption">Presentation view of a sample matter. Use the arrows, or the arrow keys.</p>
+    </section>
+
+    <section id="app" class="block">
+      <div class="block-intro">
+        <h2>The chronology stays free.</h2>
+        <p>Build it, reorder it, and stand it up in the room. That part of Timeline Studio does not ask for an account.</p>
+      </div>
+      <ul class="feature-grid">
+        <li class="event-card" style="--tint:#5856D6">
+          <p class="kicker">Timelines</p>
+          <h3>Up to three, in your order</h3>
+          <p class="notes">Put filings, calls, and meetings on their own lines. Drag the order. The labels stay pinned to the line.</p>
+        </li>
+        <li class="event-card" style="--tint:#007AFF">
+          <p class="kicker">Import</p>
+          <h3>Name them from the file</h3>
+          <p class="notes">Bring in a spreadsheet. One name in the timeline column names the one timeline. Two names make two. Three make three.</p>
+        </li>
+        <li class="event-card" style="--tint:#34C759">
+          <p class="kicker">Categories</p>
+          <h3>A color and an icon for each kind</h3>
+          <p class="notes">Text, call, email, meeting, outing, purchase, and note ship with the app. Add your own and choose an icon.</p>
+        </li>
+        <li class="event-card" style="--tint:#FF9500">
+          <p class="kicker">Linked files</p>
+          <h3>Open the document from the event</h3>
+          <p class="notes">The file stays on the Mac. In the presentation, open it and point at the page.</p>
+        </li>
+        <li class="event-card" style="--tint:#30B0C7">
+          <p class="kicker">Presentation</p>
+          <h3>One clock for every line</h3>
+          <p class="notes">Full screen. The arrow key moves to the next moment, and the other timelines move with it.</p>
+        </li>
+        <li class="event-card" style="--tint:#AF52DE">
+          <p class="kicker">Export</p>
+          <h3>Leave with the picture</h3>
+          <p class="notes">PDF or PNG of what is on screen, notes open, in the layout you are showing.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section id="ai" class="block">
+      <div class="block-intro">
+        <h2>The same AI work, either way.</h2>
+        <p>Run it on a model you connect, or have LegalAI run it. The tools do not change. Who operates them does.</p>
+      </div>
+      <ol class="spine-list">
+        <li class="event-card" style="--tint:#5856D6">
+          <span class="node-dot" aria-hidden="true"></span>
+          <p class="kicker">Email</p>
+          <h3>Build it from the file</h3>
+          <p class="notes">Dated events come off the documents, the thread, or the recording. Each one keeps the page or the timestamp it came from.</p>
+        </li>
+        <li class="event-card" style="--tint:#007AFF">
+          <span class="node-dot" aria-hidden="true"></span>
+          <p class="kicker">Text message</p>
+          <h3>Change it in a sentence</h3>
+          <p class="notes">Add, move, merge, or relabel. “Shift everything from Exhibit 12 by one hour.” You see the change before it lands, and you can undo it.</p>
+        </li>
+        <li class="event-card" style="--tint:#FF9500">
+          <span class="node-dot" aria-hidden="true"></span>
+          <p class="kicker">Meeting</p>
+          <h3>See the gap and the contradiction</h3>
+          <p class="notes">A statement on one side, the record on the other. The answer to “what happened between the call and the arrest?” cites the source.</p>
+        </li>
+        <li class="event-card" style="--tint:#34C759">
+          <span class="node-dot" aria-hidden="true"></span>
+          <p class="kicker">Phone call</p>
+          <h3>Walk in with the packet</h3>
+          <p class="notes">A chronology memo, a clean exhibit timeline, and a contradiction list. Every line points back at the page.</p>
+        </li>
+      </ol>
+    </section>
+
+    <section id="run" class="block">
+      <div class="block-intro">
+        <h2>You run the model, or LegalAI does.</h2>
+        <p>Solo and small-firm lawyers can use the AI without pasting a key. That is the $79 month.</p>
+      </div>
+      <div class="sheets">
+        <article class="sheet">
+          <h3>Your model</h3>
+          <p class="price">Free</p>
+          <p>Connect a model you already use. The same tools run from the app. Documents go only where you send them.</p>
+        </article>
+        <article class="sheet selected">
+          <h3>LegalAI runs it</h3>
+          <p class="price">$79 <span>a month</span></p>
+          <p>No key to paste and no model to choose. The same tools. Documents are processed for the chronology, not used to train a model, and deleted. You get a one-page letter for the client file.</p>
+          <a class="btn primary" href="#included">See what else is included</a>
+        </article>
+      </div>
+
+      <div class="group" id="included">
+        <h3>What the $79 month adds</h3>
+        <ul class="rows">
+          <li>
+            <strong>A letter for the client file</strong>
+            <span>Where the documents went, that they are not used to train a model, and that they are deleted.</span>
+          </li>
+          <li>
+            <strong>One bill, with an allowance</strong>
+            <span>A monthly amount of pages and recorded hours. A longer matter adds overage instead of stopping the work.</span>
+          </li>
+          <li>
+            <strong>One chronology, cites checked</strong>
+            <span>Once a month, send the file. The timeline comes back with the page cites reviewed.</span>
+          </li>
+          <li>
+            <strong>A person before the hearing</strong>
+            <span>Call when a date looks wrong. A person answers, not a chat window.</span>
+          </li>
+          <li>
+            <strong>The packet</strong>
+            <span>The chronology memo, the exhibit timeline, and the contradiction list for closing.</span>
+          </li>
+          <li>
+            <strong>You and one assistant</strong>
+            <span>Two Macs. The person who builds the chronology and the person who presents it.</span>
+          </li>
+          <li>
+            <strong>It stays current</strong>
+            <span>The app updates, and the model is swapped when a better one is ready. Nothing to change in settings the morning of court.</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="questions" class="block">
+      <div class="block-intro">
+        <h2>Questions</h2>
+      </div>
+      <div class="group questions">
+        <details>
+          <summary>Does this require the LegalAI website?</summary>
+          <p>No. Timeline Studio is a separate Mac app from the company. The chronology does not ask you to open the LegalAI tool.</p>
+        </details>
+        <details>
+          <summary>Is the chronology free?</summary>
+          <p>Yes. Import, edit, present, and export stay free. Linking a file on your Mac stays free.</p>
+        </details>
+        <details>
+          <summary>Can I use the AI without paying $79?</summary>
+          <p>Yes. Connect your own model and the same tools run. The $79 month is for having LegalAI run them, plus the letter, the checked chronology, the packet, and someone to call.</p>
+        </details>
+        <details>
+          <summary>Where does the file go?</summary>
+          <p>The chronology lives on your Mac. A linked document stays where it is. On your own model, documents go only where you send them. On the $79 plan, a copy is processed to build the chronology and then deleted.</p>
+        </details>
+        <details>
+          <summary>Which Mac does it need?</summary>
+          <p>macOS 14 or later.</p>
+        </details>
+      </div>
+    </section>
+
+    <section id="download" class="block download">
+      <article class="sheet">
+        <h2>Download for Mac</h2>
+        <p>Timeline Studio is free. It runs on macOS 14 or later and keeps the chronology on that Mac.</p>
+        <p><a class="btn primary" href="https://github.com/deantaylormax/timeline-studio/releases/latest">Download for Mac</a></p>
+        <p class="notes">The disk image is ad-hoc signed and is not notarized. The first time, control-click the app and choose Open. Checkout and the hosted model are not in the download.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <img src="icon.png" width="36" height="36" alt="">
+    <div>
+      <strong>Timeline Studio</strong>
+      <p>A LegalAI product. The Mac app stands on its own.</p>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

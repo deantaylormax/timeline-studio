@@ -1,0 +1,13 @@
+Timeline Studio
+
+Drag Timeline Studio to the Applications folder.
+
+The first time you open it, macOS may say the developer cannot be verified. This copy is not notarized. Control-click the app, choose Open, then choose Open again.
+
+Timeline Studio is a free Mac app from LegalAI for building and presenting a chronology. macOS 14 or later.
+
+Connecting a model you already use is free. The key stays in the keychain on this Mac. It is not in this disk image. Having LegalAI run that same work is $79 a month. Checkout and the hosted model are not in this download.
+
+The repository explains the chronology, the lanes, file links, presentation, and the $79 month:
+
+https://github.com/deantaylormax/timeline-studio
